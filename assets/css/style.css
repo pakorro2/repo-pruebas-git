@@ -167,7 +167,7 @@ img {
   margin-top: var(--navbar-height);
 }
 
-/** utilidades  x*/
+/** utilidades*/
 .flex {
   display: flex;
 }
@@ -188,7 +188,7 @@ img {
 .about {
   border: 1px solid red;
   padding: 5rem 20px;
-  grid-template-columns: 1fr;
+  grid-template-columns: 1fr 1fr;
   grid-template-rows: 200px auto 200px 200px;
   gap: 1rem;
 }
